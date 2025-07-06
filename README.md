@@ -98,6 +98,9 @@ Learned how to handle different HTTP methods and status codes properly.
 This project enhanced my skills in backend development, REST architecture, and API testing tools. It also prepared me for real-world scenarios where backend systems interact with frontend or client apps.
 
 Successfully completing this task marks an important milestone in my internship journey and strengthens my overall web development learning experience.
+
+# Output
+
 ![Image](https://github.com/user-attachments/assets/f773cbdc-1da8-430e-ac33-6a14cbbade61)
 ![Image](https://github.com/user-attachments/assets/b7170320-5327-433e-bad8-851154ae234e)
 ![Image](https://github.com/user-attachments/assets/fead36fc-173a-4f31-b496-466e22aa66b6)
