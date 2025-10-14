@@ -1,18 +1,5 @@
 # Restful-API-Development
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: GOPALA KRISHNA HK
-
-*INTERN ID*: CT04DH300
-
-*DOMAIN*: SOFTWARE DEVELOPMENT
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTHOSH
-
-
 This project was developed as part of my internship at CODTECH IT SOLUTIONS PVT. LTD., under the Software Development Internship Program (June-July 2025 Batch).
 
 The primary goal of this task was to build a RESTful API that performs CRUD (Create, Read, Update, Delete) operations on a collection of books. The API is built using Node.js and Express.js, and data is stored persistently using a local JSON file (books.json), simulating a basic database.
@@ -107,3 +94,8 @@ Successfully completing this task marks an important milestone in my internship 
 ![Image](https://github.com/user-attachments/assets/54dad515-79f8-4689-9271-2f4103ebc751)
 ![Image](https://github.com/user-attachments/assets/4bb7f8ba-0637-4f7e-b115-468a8cdcf109)
 ![Image](https://github.com/user-attachments/assets/01ea7eb3-30ae-4a4c-8763-83605b58f92d)
+
+## Author
+
+**Gopala Krishna H K**  
+B.E CSE, RIT
