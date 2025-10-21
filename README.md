@@ -1,6 +1,5 @@
 # Restful-API-Development
 
-This project was developed as part of my internship at CODTECH IT SOLUTIONS PVT. LTD., under the Software Development Internship Program (June-July 2025 Batch).
 
 The primary goal of this task was to build a RESTful API that performs CRUD (Create, Read, Update, Delete) operations on a collection of books. The API is built using Node.js and Express.js, and data is stored persistently using a local JSON file (books.json), simulating a basic database.
 
